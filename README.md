@@ -93,7 +93,7 @@ data-warehouse-project/
 
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LICENSE).
 
 ## 🌟 About Me
 
@@ -105,7 +105,7 @@ Link to my linkedin:
 
 ---
 
-The entire project was posible thanks to Baraa Khatib Salkini and his SQL course. YOu can learn more about Baraa the following platforms:
+The entire project was posible thanks to Baraa Khatib Salkini and his SQL course. You can learn more about Baraa the following platforms:
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
