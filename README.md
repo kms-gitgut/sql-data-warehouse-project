@@ -114,7 +114,7 @@ Hi there! I'm **Kamil Szafranski**, I’m an BI & analytics consultant.
 
 Link to my linkedin: 
 
-[Linkedin]((https://www.linkedin.com/in/kamil-szafra%C5%84ski-4b174316a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kamil-szafra%C5%84ski-4b174316a/)
 
 
 ---
