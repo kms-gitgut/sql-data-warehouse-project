@@ -16,7 +16,7 @@ None.
 This stored procedure does not accept any parameters or return any values
 
 Usage Example:
-EXEC Silver.load_silver;
+EXEC silver.load_silver;
 	
 WARNING:
     Running this script will truncate all tables in the database silver layer if they exist. 
