@@ -78,14 +78,24 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 ```
 data-warehouse-project/
 │
-├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
+├── datasets/                            # Raw datasets used for the project (ERP and CRM data)
 │
-├── docs/                               # Project documentation and architecture details
-│   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
-│   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
+├── docs/                                # Project documentation and architecture details
+|   ├── images
+│     ├── etl_methods                    # PNG file shows all different techniquies and methods of ETL
+│     ├── data_architecture              # PNG file shows the project's architecture
+│     ├── data_flow_diagram              # PNG file for the data flow diagram
+│     ├── data_mart                      # PNG file for data models (star schema)
+│     ├── integration_model              # PNG file with information how to connect tables
+│     ├── layer_details                  # PNG file with each layer detailed information
+|   ├── draw(io) templates
+│     ├── etl_methods.drawio            # Draw.io file shows all different techniquies and methods of ETL
+│     ├── data_architecture.drawio      # Draw.io file shows the project's architecture
+│     ├── data_flow_diagram.drawio      # Draw.io file for the data flow diagram
+│     ├── data_mart.drawio              # Draw.io file for data models (star schema)
+│     ├── integration_model.drawio      # Draw.io file with information how to connect tables
+│     ├── layer_details.drawio          # Draw.io file with each layer detailed information
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio                # Draw.io file for the data flow diagram
-│   ├── data_models.drawio              # Draw.io file for data models (star schema)
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
