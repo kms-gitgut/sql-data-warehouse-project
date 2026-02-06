@@ -4,9 +4,9 @@ DDL Script: Create Bronze Tables
 =============================================================
 Script Purpose:
     This script creates  tables in the "bronze" schema. Tables are created after checking if they already exist. 
-    If the table exists, it is dropped and recreated. Additionally, the script in defining the columns ant the types of data in the tables.
+    If the table exists, it is dropped and recreated. Additionally, the script in defining the columns and the types of data in the tables.
 
-	Run this script to re-defince the DDL structure of "bronze" Tables
+	Run this script to re-defince the DDL structure of "bronze" Tables.
 	
 WARNING:
     Running this script will drop all the tables in the database if they exist. 
