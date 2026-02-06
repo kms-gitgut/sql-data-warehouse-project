@@ -5,6 +5,8 @@ DDL Script: Create silver Tables
 Script Purpose:
     This script creates tables in the "silver" schema. Tables are created after checking if they already exist. 
     If the table exists, it is dropped and recreated. Additionally, the script in defining the columns and the types of data in the tables.
+	This script also introduces the technical columns (all columns with the prefix 'dwh_', followed by a descriptive name indicating the column's purpose - in this case
+	it's the date when the data was loaded.
 
 	Run this script to re-defince the DDL structure of "silver" Tables.
 	
