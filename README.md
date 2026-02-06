@@ -96,7 +96,7 @@ data-warehouse-project/
 │     ├── integration_model.drawio      # Draw.io file with information how to connect tables
 │     ├── layer_details.drawio          # Draw.io file with each layer detailed information
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+│   ├── requirements.md                 # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
