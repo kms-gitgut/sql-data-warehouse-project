@@ -5,16 +5,6 @@ Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
-## 🏗️ Data Architecture
-
-The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture](docs/images/data_architecture.png)
-
-1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
-2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
-3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
-
----
 ## 📖 Project Overview
 
 This project involves:
@@ -33,7 +23,6 @@ This project involves:
 - Data Analytics  
 
 ---
-
 ## 🚀 Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
@@ -49,7 +38,16 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
+## 🏗️ Data Architecture
 
+The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+![Data Architecture](docs/images/data_architecture.png)
+
+1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
+
+---
 ### BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
@@ -87,6 +85,7 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
+
 ```
 ---
 
@@ -102,9 +101,9 @@ I'm **Kamil Szafranski**, I’m an BI & analytics consultant, to learn more abou
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-szafra%C5%84ski-4b174316a/?locale=en_US)
 
 ---
+---
 
 The entire project was posible thanks to Baraa Khatib Salkini and his SQL course. You can learn more about Baraa on the following platforms:
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
-
