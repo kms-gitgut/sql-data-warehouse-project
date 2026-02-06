@@ -116,6 +116,8 @@ I’m an BI & analytics consultant, to learn more about my work related topics, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-szafra%C5%84ski-4b174316a/?locale=en_US)
 
 ---
+**Credits**
+
 The entire project was posible thanks to **Baraa Khatib Salkini** and his SQL course. 
 
 Click the icon to go to the entire course:
