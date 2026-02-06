@@ -96,7 +96,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌟 About Me
 
-I'm **Kamil Szafranski**, I’m an BI & analytics consultant, to learn more about my work related topics, click the Linkedin link below: 
+I'm **Kamil Szafranski**, 
+
+I’m an BI & analytics consultant, to learn more about my work related topics, click the Linkedin link below: 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-szafra%C5%84ski-4b174316a/?locale=en_US)
 
