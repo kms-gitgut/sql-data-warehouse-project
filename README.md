@@ -20,7 +20,19 @@ This project involves:
 - Data Engineering  
 - ETL Pipeline Developer  
 - Data Modeling  
-- Data Analytics  
+- Data Analytics
+
+---
+## 🛠️ Important Links & Tools:
+
+Everything is for Free!
+- **[Datasets](datasets/):** Access to the project dataset (csv files).
+- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
+- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
+- **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
+- **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
+- **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
 
 ---
 ## 🚀 Project Requirements
@@ -38,16 +50,6 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ---
-## 🏗️ Data Architecture
-
-The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture](docs/images/data_architecture.png)
-
-1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
-2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
-3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
-
----
 ### BI: Analytics & Reporting (Data Analysis)
 
 #### Objective
@@ -59,6 +61,16 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 For more details, refer to [docs/requirements.md](docs/requirements.md).
+
+---
+## 🏗️ Data Architecture
+
+The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
+![Data Architecture](docs/images/data_architecture.png)
+
+1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
+2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
+3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ## 📂 Repository Structure
 ```
@@ -87,9 +99,8 @@ data-warehouse-project/
 └── requirements.txt                    # Dependencies and requirements for the project
 
 ```
+
 ---
-
-
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -104,7 +115,6 @@ I’m an BI & analytics consultant, to learn more about my work related topics, 
 
 ---
 ---
-
 The entire project was posible thanks to Baraa Khatib Salkini and his SQL course (click the icon to go to the entire course). 
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?srsltid=AfmBOorleTtX0rLNCOOC8A-G-yViZEsCJBbr2pi0ho2FgIPUUJOOgmzz)
@@ -113,3 +123,4 @@ You can learn more about Baraa on the following platforms:
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
+---
