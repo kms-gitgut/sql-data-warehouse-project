@@ -105,9 +105,7 @@ I’m an BI & analytics consultant, to learn more about my work related topics, 
 ---
 ---
 
-The entire project was posible thanks to Baraa Khatib Salkini and his SQL course.
-
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?srsltid=AfmBOorleTtX0rLNCOOC8A-G-yViZEsCJBbr2pi0ho2FgIPUUJOOgmzz)
+The entire project was posible thanks to Baraa Khatib Salkini and his SQL course (click the inco to go to the entire course) -> [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?srsltid=AfmBOorleTtX0rLNCOOC8A-G-yViZEsCJBbr2pi0ho2FgIPUUJOOgmzz)
 
 You can learn more about Baraa on the following platforms:
 
