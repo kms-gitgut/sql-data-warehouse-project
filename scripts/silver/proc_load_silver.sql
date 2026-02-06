@@ -1,4 +1,3 @@
-
 /*
 =============================================================
 DDL Script: Inserts data into silver tables
