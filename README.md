@@ -124,7 +124,10 @@ Click the icon to go to the entire course:
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?srsltid=AfmBOorleTtX0rLNCOOC8A-G-yViZEsCJBbr2pi0ho2FgIPUUJOOgmzz)
 
-You can learn more about **Baraa** on the following platforms:
+Baraa is an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging.
+
+You can learn more about him on the following platforms:
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](http://bit.ly/3GiCVUE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com)
