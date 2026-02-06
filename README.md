@@ -106,6 +106,7 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE).
 
+---
 ## 🌟 About Me
 
 I'm **Kamil Szafranski**, 
@@ -115,7 +116,7 @@ I’m an BI & analytics consultant, to learn more about my work related topics, 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-szafra%C5%84ski-4b174316a/?locale=en_US)
 
 ---
-The entire project was posible thanks to Baraa Khatib Salkini and his SQL course (click the icon to go to the entire course). 
+**The entire project was posible thanks to Baraa Khatib Salkini and his SQL course** (click the icon to go to the entire course).
 
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?srsltid=AfmBOorleTtX0rLNCOOC8A-G-yViZEsCJBbr2pi0ho2FgIPUUJOOgmzz)
 
