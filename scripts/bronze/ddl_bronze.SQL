@@ -15,7 +15,7 @@ WARNING:
 =============================================================
 */
 
-/*  Drop and recreate the 'Table' */
+/*  Drop and recreate the 'Table - bronze.crm_cust_info' */
 IF OBJECT_ID ('bronze.crm_cust_info', 'U' ) IS NOT NULL
 	DROP TABLE bronze.crm_cust_info;
 GO
