@@ -126,7 +126,7 @@ Click the icon to go to the entire course:
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/?srsltid=AfmBOorleTtX0rLNCOOC8A-G-yViZEsCJBbr2pi0ho2FgIPUUJOOgmzz)
 
 
-Baraa is an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging.
+**Baraa** is an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging.
 
 You can learn more about him on the following platforms:
 
