@@ -65,7 +65,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 For more details, refer to [docs/requirements.md](docs/requirements.md).
 
-For details on the Analytic part of the project, please go to the following Git Hub Repository:
+For details on the Analytics part of the project, please go to the following Git Hub Repository:
 
 [Git sql-data-analytics-project Repository](https://github.com/kms-gitgut/sql-data-analytics-project)
 
