@@ -1,7 +1,7 @@
 
-# Data Warehouse and Analytics Project
+# Data Warehouse Project
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
+Welcome to the **Data Warehouse Project** repository! 🚀  
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 ---
@@ -35,7 +35,7 @@ all tools are free
 - **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
 - **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
 - **[Notion](https://www.notion.com/):** All-in-one tool for project management and organization.
-- **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
+- **[Notion Project Steps]([https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4](https://capricious-pan-8a4.notion.site/Data-Warehouse-Project-2f42a9725404803aa630f87297e1715b?pvs=73)):** Access to All Project Phases and Tasks.
 
 ---
 ## 🚀 Project Requirements
