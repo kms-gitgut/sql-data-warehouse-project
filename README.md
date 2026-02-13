@@ -22,7 +22,7 @@ This project involves:
 - Data Modeling  
 - Data Analytics
 
-![Project Overview](docs/images/sql_projects_(data_warehouse_scope).png)
+vv 
 
 ---
 ## 🛠️ Important Links & Tools:
