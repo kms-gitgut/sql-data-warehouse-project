@@ -23,6 +23,7 @@ This project involves:
 - Data Analytics
 
 Project Overview:
+ 
 ![Project Overview](docs/images/sql_projects_(data_warehouse_scope).png)
 
 ---
